@@ -19,8 +19,8 @@ This project combines Laravel, Inertia.js, React, and TypeScript to create a mod
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/NIKO455/Modular-Laravel-with-Inertia.js-React-and-TypeScript.git
+   cd project 
    ```
 
 2. Install PHP dependencies:
